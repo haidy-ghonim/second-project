@@ -1,0 +1,12 @@
+body{
+      background: linear-gradient(180deg,#ccc ,#fff 10%); 
+     /* background:url(../images/pexels-dids-2387082.jpg); */
+     min-height: 1200px;
+}
+td{
+     text-align: center;
+}
+/* .list-inline:hover li a:hover {
+     color: rgb(212, 214, 97); 
+   } */
+   
